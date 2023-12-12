@@ -5,7 +5,7 @@
 
 <!-- - 🌱 I’m currently learning **React Native** -->
 
-- 💬 Ask me about **frontend development**
+- 💬 Ask me about **web development**
 
 - 📫 How to reach me **dilipkumargiri.23@gmail.com**
 
