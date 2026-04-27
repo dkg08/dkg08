@@ -60,17 +60,16 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkg08&show_icons=true" />
-</p>
+<!-- <p align="left">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dkg08&show_icons=true&count_private=true&include_all_commits=true" />
+</p> -->
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dkg08" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dkg08&layout=compact" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dkg08&layout=compact&langs_count=8" /></p>
 
 ---
 
